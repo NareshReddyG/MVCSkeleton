@@ -1,0 +1,14 @@
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\obj\Debug\Skeleton.Repository.csprojResolveAssemblyReference.cache
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Repository.dll.config
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Repository.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Repository.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\EntityFramework.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Common.DataAccess.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Models.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Common.DataAccess.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\Skeleton.Models.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\EntityFramework.xml
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\obj\Debug\Skeleton.Repository.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Repository\obj\Debug\Skeleton.Repository.pdb

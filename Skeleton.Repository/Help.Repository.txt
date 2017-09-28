@@ -1,0 +1,2 @@
+﻿1) This is an abstract layer of the database
+2) All database related changes has to be in the project

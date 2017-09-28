@@ -1,0 +1,4 @@
+﻿1) This project contains the UOW  and generic repository.
+2) Reason for adding as a seperate project is, 
+	a) we can easily change it
+	b) If we create a new project like console application we can use the same generic repo and UOW.

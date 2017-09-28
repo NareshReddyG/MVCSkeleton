@@ -1,0 +1,7 @@
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\bin\Debug\Skeleton.Logger.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\bin\Debug\Skeleton.Logger.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\bin\Debug\log4net.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\bin\Debug\log4net.xml
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\obj\Debug\Skeleton.Logger.csprojResolveAssemblyReference.cache
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\obj\Debug\Skeleton.Logger.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Logger\obj\Debug\Skeleton.Logger.pdb

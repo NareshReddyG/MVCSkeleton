@@ -1,0 +1,13 @@
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\obj\Debug\Skeleton.Service.csprojResolveAssemblyReference.cache
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Service.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Service.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Models.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Repository.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\EntityFramework.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Common.DataAccess.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Models.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Repository.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\EntityFramework.xml
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\bin\Debug\Skeleton.Common.DataAccess.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\obj\Debug\Skeleton.Service.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Service\obj\Debug\Skeleton.Service.pdb

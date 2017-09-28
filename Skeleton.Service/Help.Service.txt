@@ -1,0 +1,4 @@
+﻿1) All bussiness logic has to be here. 
+2) He is the on who talk's with Repository and controllers
+
+

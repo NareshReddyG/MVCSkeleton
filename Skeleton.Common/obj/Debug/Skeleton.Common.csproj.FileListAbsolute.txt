@@ -1,0 +1,5 @@
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Common\bin\Debug\Skeleton.Common.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Common\bin\Debug\Skeleton.Common.pdb
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Common\obj\Debug\Skeleton.Common.csprojResolveAssemblyReference.cache
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Common\obj\Debug\Skeleton.Common.dll
+E:\Projects\POC\Skeleton\Skeleton\Skeleton.Common\obj\Debug\Skeleton.Common.pdb

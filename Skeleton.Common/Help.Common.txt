@@ -1,0 +1,2 @@
+﻿1) All common/helper functions has to be here
+Example: Enum's, static data etc..
